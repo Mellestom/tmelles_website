@@ -102,9 +102,8 @@
     padding: 1rem;
     cursor: pointer;
     background-color: var(--color-grey-4);
-    width: 55px;
+    width: 100px;
     height: 55px;
-    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
