@@ -115,7 +115,7 @@
     box-shadow: var(--box-shadow-1);
   }
   .controls .control i {
-    color: var(--color-grey-2);
+    color: #B5C1CF;
     pointer-events: none;
   }
   .controls .active-btn {
@@ -353,7 +353,7 @@
   }
   /*Footer*/
   .footer-index {
-    color: var(--color-secondary);
+    color: #D2C1AC;
     text-align: right;
     padding: 1rem;
     font-family: "Poppins", sans-serif;
