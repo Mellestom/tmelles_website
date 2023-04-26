@@ -509,8 +509,8 @@
     display: flex;
     padding-top: 3.5rem;
     margin-top: 25px;
-    margin-left: 100px;
-    margin-right: 200px;
+    margin-left: 5rem;
+    margin-right: 5rem;
   }
   .contact-content-con .left-contact {
     flex: 2;
